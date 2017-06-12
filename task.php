@@ -1,5 +1,5 @@
 <?php
-class task {
+class Task {
     var $description;
     var $completed;
     var $date_created;
